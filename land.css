@@ -1,0 +1,193 @@
+
+*{
+margin:0px;
+padding:0px;
+box-sizing: border-box;
+}
+
+body{
+    font-family:  Verdana, sans-serif;
+    }
+.section{
+    margin-top:-60px ;
+   
+    width:100% ;
+    background-color:#1F2937 ;
+     }
+
+     .section1{
+   background-color:#1F2937 ;
+   margin-bottom:26px;
+   margin-top:56px ;
+   margin-left:60px ;
+   margin-right: 82px;
+    }
+
+.logo{
+    margin-top: 26PX;
+    margin-left:56px ;
+    font-size:24px ;
+    color: #F9FAF8;
+     }
+
+.head1{
+display: flex;
+gap:520px; 
+        }
+.container1 {
+    margin-right:56px ;
+    margin-top:26PX;
+   display: flex;
+    gap:20px; 
+    }
+    .container1 a {
+        font-size:18px ;
+        color: #E5E7EB; 
+        }
+.head2{
+ display: flex;
+gap:60px; 
+}
+
+.head2 .service{
+margin-top:56px ;
+margin-left:56px ;
+    }
+
+    .include{
+        color: #F9FAF8;
+    }
+    
+
+    .ours{
+    font-size: 48px;
+    color: #F9FAF8;
+    font-weight: bold;
+    opacity: 0.9;
+    
+            }
+.sign{
+    color: #E5E7EB;
+    width: 152px;
+   border: 2px;
+   border-color: #F9FAF8;
+   border-radius: 5px;
+   background-color: #3882F6;
+   padding-left: 22px;
+   padding-right: 22px;
+   padding-top: 6px;
+   padding-bottom: 6px;
+   margin-top: 11px;
+        }
+
+    .head2 img{
+        margin-bottom: 26px;
+        margin-top:56px ;
+        margin-right:56px ;
+            width:40%;
+            opacity:0.5;
+            }
+.head2 div{
+    flex: 2;
+     }
+
+     .section2 h1{
+    font-size:26px ;
+    font-style:bold;
+    color:#1F2937 ;
+    margin-top:26px;
+    margin-bottom: 0px;
+    margin-left: 270px;
+    margin-right: 220px;
+}
+
+.items img{
+    width:100%;
+}
+.section2 .items{
+    margin-left: 90px;
+    margin-right:60px ;
+    margin-top: 28px;  
+    margin-bottom: 30px;
+    display: flex;
+    gap: 85px;
+    flex-wrap:nowrap;
+    justify-content: center;
+    opacity: 0.8;
+    
+    
+}
+.items div{
+    flex: 2;
+}
+
+  
+ a:hover {
+    color:#3882F6 ;
+  }
+  .sign:hover{
+    opacity: 0.5;
+    color:red ;
+        }
+
+        .sign1:hover{
+            opacity: 0.5;
+            color:red ;
+                }
+.section3{
+    background-color:#E5E7EB;
+    font-size: 36px;
+    font-style: italic;
+    font-weight: lighter;
+    color:#1F2937; 
+      padding-left: 80px;
+      padding-right: 80px;
+      padding-top: 80px;
+      padding-bottom: 80px;
+      opacity: 0.7;
+}
+.section3 span{
+    color: black;
+    font-style: normal;
+}
+
+.section4{
+    background-color:#3882F6; 
+    padding-left: 264px ; 
+    padding-right: 264px;
+    padding-top: 64px;
+    padding-bottom: 64px;
+    margin-left: 80px;
+    margin-right:80px ;
+    margin-top: 55px;  
+    margin-bottom: 55px;
+    display: flex;
+    gap: 90px;
+    opacity: 0.8;
+    
+}
+
+
+.sign1{
+    color: white;
+    width: 152px;
+   border:2px;
+   border-style: double;
+   border-color: #F9FAF8;
+   background-color: #3882F6;
+   border-radius: 5px;
+   padding-left: 22px;
+   padding-right: 22px;
+   padding-top: 6px;
+   padding-bottom: 6px;
+   margin-top: 11px;
+
+ }
+.section4 div{
+    color: white;
+    
+ }
+ .sign1,.sign{
+    cursor: pointer;
+    
+ }
